@@ -2,6 +2,8 @@
 
 `gob` is a professional, high-performance Go framework for building web applications with real-time hot-reloading and built-in MongoDB support.
 
+(WIP)
+
 ## Installation
 
 To install the `gob` CLI globally:
