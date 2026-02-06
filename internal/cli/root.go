@@ -20,7 +20,7 @@ Go web applications with modern aesthetics.`,
 	},
 }
 
-const Version = "0.1.0"
+const Version = "0.1.1"
 
 var versionCmd = &cobra.Command{
 	Use:   "version",
